@@ -12,7 +12,7 @@
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
-        "laravel/ui": "^4.4",
+        "laravel/ui": "^4.5",
         "livewire/livewire": "^2.12",
         "mcamara/laravel-localization": "^1.8",
         "php-flasher/flasher-toastr-laravel": "^1.15"
