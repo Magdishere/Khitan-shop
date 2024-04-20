@@ -1,0 +1,85 @@
+[33m0f35cea[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33m0f35cea[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{1}: pull: Fast-forward
+[33md391fce[m HEAD@{2}: merge origin/main: Merge made by the 'ort' strategy.
+[33m9d6b2a1[m HEAD@{3}: commit: home
+[33mf97ef2d[m HEAD@{4}: commit: details
+[33mc69adbf[m HEAD@{5}: commit: details
+[33m467da21[m HEAD@{6}: commit: details
+[33m5751169[m HEAD@{7}: merge origin/main: Merge made by the 'ort' strategy.
+[33m852a3b8[m HEAD@{8}: commit: details
+[33mcbca95f[m HEAD@{9}: commit: details
+[33m38ea940[m HEAD@{10}: commit: details
+[33m0b53870[m HEAD@{11}: pull: Fast-forward
+[33ma547986[m HEAD@{12}: commit: details
+[33mb98f597[m HEAD@{13}: commit: details
+[33m2b3f38f[m HEAD@{14}: commit: details
+[33m201ad57[m HEAD@{15}: pull: Fast-forward
+[33m8b54f18[m HEAD@{16}: reset: moving to HEAD
+[33m8b54f18[m HEAD@{17}: commit: details
+[33mafe8089[m HEAD@{18}: merge origin/main: Merge made by the 'ort' strategy.
+[33mb92e3ae[m HEAD@{19}: commit: details
+[33m6066970[m HEAD@{20}: commit: details
+[33m3deac7a[m HEAD@{21}: pull: Fast-forward
+[33m0adb43b[m HEAD@{22}: commit: details
+[33mb6919b5[m HEAD@{23}: commit (merge): Merge remote-tracking branch 'origin/main'
+[33m56398e2[m HEAD@{24}: commit: details
+[33m163efcb[m HEAD@{25}: pull: Fast-forward
+[33mf74923a[m HEAD@{26}: merge origin/main: Merge made by the 'ort' strategy.
+[33m24128d2[m HEAD@{27}: commit: details
+[33m9c2aa06[m HEAD@{28}: commit: attributes
+[33mde22850[m HEAD@{29}: commit (merge): Merge remote-tracking branch 'origin/main'
+[33mf95cec3[m HEAD@{30}: commit: attributes
+[33m83b5a72[m HEAD@{31}: commit: d
+[33m4dbaf46[m HEAD@{32}: pull: Fast-forward
+[33m5ec2918[m HEAD@{33}: reset: moving to HEAD
+[33m5ec2918[m HEAD@{34}: merge origin/main: Merge made by the 'ort' strategy.
+[33m779896f[m HEAD@{35}: commit: head
+[33m6aa6adf[m HEAD@{36}: pull: Fast-forward
+[33m8e991a8[m HEAD@{37}: commit: admin
+[33md989f02[m HEAD@{38}: commit: admin
+[33mf3d954e[m HEAD@{39}: merge origin/main: Merge made by the 'ort' strategy.
+[33m4404f15[m HEAD@{40}: commit: admin
+[33m537fba2[m HEAD@{41}: merge origin/main: Merge made by the 'ort' strategy.
+[33mf9bb79e[m HEAD@{42}: commit: admin
+[33m123bdc4[m HEAD@{43}: merge origin/main: Merge made by the 'ort' strategy.
+[33m39d262a[m HEAD@{44}: commit: admin
+[33m4db00db[m HEAD@{45}: commit: sales
+[33mf327189[m HEAD@{46}: pull: Merge made by the 'ort' strategy.
+[33m46194b8[m HEAD@{47}: commit: shop
+[33m835b4cf[m HEAD@{48}: commit: shop
+[33md1a34ea[m HEAD@{49}: merge origin/main: Merge made by the 'ort' strategy.
+[33m0443958[m HEAD@{50}: commit: sales
+[33m2655991[m HEAD@{51}: commit: sales
+[33m74570b4[m HEAD@{52}: pull: Fast-forward
+[33mdc8ad05[m HEAD@{53}: commit: sales
+[33mcb69370[m HEAD@{54}: commit: sales
+[33m675316c[m HEAD@{55}: commit: slides
+[33m213ea38[m HEAD@{56}: commit: slides
+[33m1ccf937[m HEAD@{57}: merge origin/main: Merge made by the 'ort' strategy.
+[33m1fbdabc[m HEAD@{58}: commit: slides
+[33m1085266[m HEAD@{59}: commit: slides
+[33mb84abde[m HEAD@{60}: pull: Fast-forward
+[33mf604f61[m HEAD@{61}: commit: slides
+[33m7c1dd26[m HEAD@{62}: pull: Fast-forward
+[33m234fd57[m HEAD@{63}: commit: add
+[33me8f173b[m HEAD@{64}: pull: Fast-forward
+[33md6d79d8[m HEAD@{65}: reset: moving to HEAD
+[33md6d79d8[m HEAD@{66}: commit: sales
+[33m8207c36[m HEAD@{67}: commit: sales
+[33mc8dcec7[m HEAD@{68}: commit: sales
+[33me3caa5e[m HEAD@{69}: pull: Fast-forward
+[33mbd5ec28[m HEAD@{70}: commit: products
+[33me7e3b11[m HEAD@{71}: commit: products
+[33m8bc01b6[m HEAD@{72}: commit: Categories
+[33mbeb79f7[m HEAD@{73}: commit: Categories
+[33md085af4[m HEAD@{74}: merge origin/main: Merge made by the 'ort' strategy.
+[33m6662ad5[m HEAD@{75}: commit: Categories
+[33m75092bf[m HEAD@{76}: commit: Categories
+[33mef405ae[m HEAD@{77}: commit: Categories
+[33m997b5f4[m HEAD@{78}: commit: categories
+[33m7fe421c[m HEAD@{79}: pull: Merge made by the 'ort' strategy.
+[33mcf33eb4[m HEAD@{80}: commit: admin dashboard
+[33m92dd88d[m HEAD@{81}: commit: categories
+[33m624a583[m HEAD@{82}: commit: admin dashboard
+[33m13ac5cc[m HEAD@{83}: commit: categories
+[33mc2cc6f9[m HEAD@{84}: commit: login
